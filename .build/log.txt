@@ -1,0 +1,2 @@
+Pass:
+Generated bundle file /home/user/projects/SAPMDKSliderCustomControl/.build/SliderCC/.build/uploadBundle.zip

@@ -1,0 +1,26 @@
+{
+	"Credential": "cf",
+	"CF": {
+		"Target": "https://api.cf.us10.hana.ondemand.com",
+		"Organization": "5295234a-efc2-4b9d-a9f0-1fb724dead6c",
+		"Space": "dca6e13b-777f-4e4b-a51d-cf7837e22376"
+	},
+	"MobileService": {
+		"AdminAPI": "https://mobile-service-cockpit-api.cfapps.us10.hana.ondemand.com/cockpit/v1/org/5295234a-efc2-4b9d-a9f0-1fb724dead6c/space/dca6e13b-777f-4e4b-a51d-cf7837e22376",
+		"AppId": "json.slidercc",
+		"Destination": [
+			"com.sap.edm.sampleservice.v4"
+		],
+		"Type": "standard"
+	},
+	"Onboarding": {
+		"Schema": "sapmobilesvcs",
+		"TimeZone": "UTC",
+		"URL": "sapmobilesvcs://?AppId=json.slidercc&ClientId=b6f819cb-de31-4797-bad3-fda9daaea13a&ServerUrl=https://uxm-wz001-i751878-json-slidercc.cfapps.us10.hana.ondemand.com&SapCloudPlatformEndpoint=https://uxm-wz001-i751878-json-slidercc.cfapps.us10.hana.ondemand.com&AuthorizationEndpointUrl=https://uxm-wz001-i751878-json-slidercc.cfapps.us10.hana.ondemand.com/oauth2/api/v1/authorize&RedirectUrl=https://uxm-wz001-i751878-json-slidercc.cfapps.us10.hana.ondemand.com&TokenUrl=https://uxm-wz001-i751878-json-slidercc.cfapps.us10.hana.ondemand.com/oauth2/api/v1/token&multiUser=false"
+	},
+	"Build": {
+		"SourceMap": true,
+		"TSTarget": "es6",
+		"WMF": true
+	}
+}
